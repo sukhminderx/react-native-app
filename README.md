@@ -1,6 +1,6 @@
 # steps to dev build
 
-## Start the Virtual device on android.
+## Start the Virtual device on android studio.
 
 ## Start the metro bundler
 
