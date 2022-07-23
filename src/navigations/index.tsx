@@ -3,11 +3,12 @@
  import {  
    Text
  } from 'react-native';
+import HomeNavigator from './HomeNavigator';
  
 const AppNavContainer = () => {
    return (
      <NavigationContainer>       
-         <Text>Hello</Text>
+         <HomeNavigator></HomeNavigator>
      </NavigationContainer>
    );
  };

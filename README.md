@@ -17,3 +17,11 @@
 # Issue with pod installation
 
 ## needs xcode configuration for this
+
+# for adding navigation stacks:
+
+## https://reactnavigation.org/docs/hello-react-navigation
+
+# Drawer: https://reactnavigation.org/docs/drawer-based-navigation/
+
+# react-native-reanimated error: https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/installation/#babel-plugin
