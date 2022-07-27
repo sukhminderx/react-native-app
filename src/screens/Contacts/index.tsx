@@ -1,11 +1,12 @@
 import React from 'react';
 import { Text, View } from 'react-native';
+import Container from '../../components/common/container';
 
 const Contacts = () => {
   return (
-    <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
+    <Container style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
         <Text>Contacts Screen</Text>
-     </View>
+     </Container>
   );
 };
 
