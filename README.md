@@ -25,3 +25,5 @@
 # Drawer: https://reactnavigation.org/docs/drawer-based-navigation/
 
 # react-native-reanimated error: https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/installation/#babel-plugin
+
+# Context added to app by creating GlobalContext
