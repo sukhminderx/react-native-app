@@ -29,3 +29,5 @@
 # Context added to app by creating GlobalContext
 
 # Drawer header removed
+
+# added react-devtools
