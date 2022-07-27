@@ -27,3 +27,5 @@
 # react-native-reanimated error: https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/installation/#babel-plugin
 
 # Context added to app by creating GlobalContext
+
+# Drawer header removed
