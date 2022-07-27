@@ -30,4 +30,4 @@
 
 # Drawer header removed
 
-# added react-devtools
+# added react-devtools to debug
